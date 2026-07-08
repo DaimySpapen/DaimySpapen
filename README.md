@@ -1,6 +1,6 @@
 <div align="center"> <!--can you center a div? I knowm, i am very funny-->
 
-# Hey, i'm Daimy 👋
+### Hey, i'm Daimy 👋
 
 </div>
 
