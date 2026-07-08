@@ -1,8 +1,11 @@
-<div align="center"> <!--can you center a div?-->
+<div align="center"> <!--can you center a div? I knowm, i am very funny-->
 
 # Hey, i'm Daimy 👋
 
 </div>
+
+### About me
+I am an intern at [Cygnea-Congrestechniek](https://cygnea-congrestechniek.nl) and i start working there after the summer vacation. I like making software that helps get something specific done without bundling all kinds of other features with it that aren't needed.
 
 ## What i'm currently working on
 
