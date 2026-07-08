@@ -1,33 +1,22 @@
-<div align="center">
+<div align="center"> <!--can you center a div?-->
 
-# hey, i'm daimy 👋
-
-*building things that shouldn't exist yet*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=AI+%2B+systems+developer;fine-tuning+small+LLMs;building+live+event+tools;working+on+closed-source+professional+tools;always+learning+something+new)](https://git.io/typing-svg)
+# Hey, i'm Daimy 👋
 
 </div>
 
----
+## What i'm currently working on
 
-## 🔨 what i'm building
-
-*currently working on closed-source internal tooling at [Cygnea-Congrestechniek](https://cygnea-congrestechniek.nl/) 🔒*
-
----
-
-## 🧠 currently exploring
-
-- Fine-tuning small LLMs (Gemma, DeepSeek-R1 style reasoning) on consumer hardware
-- Building real-time audio processing pipelines
-- Multi-provider AI integrations
+- A media cue playback application for Windows 10/11.
+- A Minecaft mod that gives age-locked mobs an indicator above their heads.
+- Trying to train a small language model from scratch on just 11GB VRAM.
 
 ---
 
-## 🛠 tech i use
+## lanuages and frameworks i use
 
 **languages**
 
+![C++](https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
