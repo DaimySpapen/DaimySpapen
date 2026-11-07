@@ -1,52 +1,30 @@
-<div align="center"> <!--can you center a div? I knowm, i am very funny-->
+<div align="center"> <!--can you center a div? I know, i am very funny-->
 
-# Hey, i'm Daimy 👋
+# Hey, i'm Daimy
 
 </div>
 
 ## About me
-I work at [Cygnea-Congrestechniek](https://cygnea-congrestechniek.nl) as an all-round audiovisual technician. I like making software that helps get something specific done without bundling all kinds of other features with it that aren't needed.
+I work at [Cygnea-Congrestechniek](https://cygnea-congrestechniek.nl) as an all-round audiovisual technician. I help prepare, install, and operate audio, video, and lighting equipment for congresses, conferences and other events.
 
-## What i'm currently working on
+Alongside my work, i enjoy developing software, particularly applications and systems for the AV industry.
 
-- A media cue playback application for Windows 10/11.
-- A Minecaft mod that gives age-locked mobs an indicator above their heads.
-- Trying to train a small language model from scratch on just 11GB VRAM.
+I am also the founder of Frisson, an upcoming audio platform for ASMR and audio roleplay. The platform is currently in early development.
 
----
-
-## lanuages and frameworks i use
-
-**languages**
-
-![C++](https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**tools & frameworks**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
----
 
 <div align="center">
 
-## 📊 stats
+## stats
 
 ![GitHub Stats](https://kayan-github-profile-projects-featu.vercel.app//api?username=DaimySpapen&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=DaimySpapen&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)
 
----
-
 ![Snake animation](https://raw.githubusercontent.com/DaimySpapen/DaimySpapen/output/github-contribution-grid-snake-dark.svg)
-
----
-
-*based in the netherlands*
 
 </div>
